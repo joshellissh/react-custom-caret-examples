@@ -49,7 +49,7 @@ Error generating stack: `+o.message+`
         <img src="carrot.svg" alt="|" width={17} height={17} />
     </div>}
 ></CustomCaret>
-`;function Ed(){return J.jsx(Js,{blink:!1,type:jn.INPUT,focusCaret:J.jsx("div",{style:{width:"7px",height:"15px",backgroundColor:"#bbbbbb",marginTop:"2px"}}),blurCaret:J.jsx("div",{style:{width:"7px",height:"15px",backgroundColor:"transparent",border:"solid 1px white",marginTop:"2px"}}),style:{backgroundColor:"black",border:"0",color:"white",fontFamily:"monospace",lineHeight:"14pt"}})}const xd=`
+`;function Ed(){return J.jsx(Js,{blink:!1,type:jn.INPUT,focusCaret:J.jsx("div",{style:{width:"7px",height:"15px",backgroundColor:"#bbbbbb",marginTop:"3px"}}),blurCaret:J.jsx("div",{style:{width:"7px",height:"15px",backgroundColor:"transparent",border:"solid 1px white",marginTop:"3px"}}),style:{backgroundColor:"black",border:"0",color:"white",fontFamily:"monospace",lineHeight:"15pt"}})}const xd=`
 <CustomCaret
     blink={false}
     type={CustomCaretType.INPUT}
