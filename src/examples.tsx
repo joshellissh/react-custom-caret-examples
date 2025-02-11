@@ -10,7 +10,7 @@ export function CarrotCaret() {
                     marginLeft: "-8px"
                 }}
             >
-                <img src="/react-custom-caret/carrot.svg" alt="|" width={17} height={17}/>
+                <img src="/react-custom-caret-examples/carrot.svg" alt="|" width={17} height={17}/>
             </div>}
         ></CustomCaret>
     );
@@ -39,7 +39,7 @@ export function CSSCaret() {
                 width: "7px",
                 height: "15px",
                 backgroundColor: "#bbbbbb",
-                marginTop: "2px"
+                marginTop: "3px"
             }}
             />}
             blurCaret={<div style={{
@@ -47,7 +47,7 @@ export function CSSCaret() {
                 height: "15px",
                 backgroundColor: "transparent",
                 border: "solid 1px white",
-                marginTop: "2px"
+                marginTop: "3px"
             }}
             />}
             style={{
@@ -55,7 +55,7 @@ export function CSSCaret() {
                 border: "0",
                 color: "white",
                 fontFamily: "monospace",
-                lineHeight: "14pt"
+                lineHeight: "15pt"
             }}
         ></CustomCaret>
     );
